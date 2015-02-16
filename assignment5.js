@@ -47,6 +47,6 @@ add(3,5)
 var subtract=function(number1,number2) {
     console.log(number1 - number2)
 }
-subtract(5,2)
+subtract(5,2);
 
 
